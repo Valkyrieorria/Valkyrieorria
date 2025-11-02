@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://i.postimg.cc/d0YkLShm/photo-2025-11-03-01-45-00.jpg" alt="banner" width="100%">
+</p>
 
 <!--
 **Valkyrieorria/Valkyrieorria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
